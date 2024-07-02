@@ -1,0 +1,1 @@
+# Accept 10 numbers from user and display average of it.
